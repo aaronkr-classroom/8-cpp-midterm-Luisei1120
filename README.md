@@ -20,15 +20,15 @@
 
 ### Required functions / 필수 함수
 
-- `did_all_hw()` - p. 182
-- `grade_aux()` - p. 186
-- `median_analysis()` - p. 186
-- `optimistic_median()` - p. 190
+- `did_all_hw()` - p. 182 (슬라이드 `27`)
+- `grade_aux()` - p. 186 (슬라이드 `33`)
+- `median_analysis()` - p. 186 (슬라이드 **`33`**)
+- `optimistic_median()` - p. 190 (슬라이드 `37`)
 - `optimistic_median_analysis()` - 책에 없는 코드, 아래 제공됨
-- `average()` - p. 188
-- `average_grade()` - p. 189
-- `average_analysis()` - p. 189
-- `write_analysis()` - p. 186-187
+- `average()` - p. 188 (슬라이드 `36`)
+- `average_grade()` - p. 189 (슬라이드 `36`)
+- `average_analysis()` - p. 189 (슬라이드 `36`)
+- `write_analysis()` - p. 186-187 (슬라이드 `34`)
 
 #### `optimistic_median_analysis()` 코드
 
